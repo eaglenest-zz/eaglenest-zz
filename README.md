@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eaglenest-zz
-- 👀 I’m interested in everything related to development and new technologiwa
+- 👀 I’m interested in everything related to development and new technologies. Always curious about everything.
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on VRM, want to publish my solar system with the world
 - 📫 How to reach me at hugo.hribeiro@gmail.com
